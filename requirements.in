@@ -1,0 +1,9 @@
+# Build tools and notebook validation. Recompile with uv pip compile.
+jupyter-book>=2,<3
+jupyterlite-core>=0.8,<0.9
+jupyterlite-pyodide-kernel>=0.8,<0.9
+jupyter-server>=2,<3
+nbformat>=5.10,<6
+nbclient>=0.10,<0.11
+ipykernel>=6.29,<8
+nodejs-wheel>=24,<25

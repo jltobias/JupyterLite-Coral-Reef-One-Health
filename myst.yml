@@ -1,0 +1,23 @@
+version: 1
+project:
+  title: Coral Reef One Health
+  description: Explore coral reef mapping, ecosystems, animals, and people.
+  github: https://github.com/jltobias/JupyterLite-Coral-Reef-One-Health
+  bibliography:
+    - references.bib
+  toc:
+    - file: book/index.md
+    - file: book/mapping-initiatives.md
+    - file: book/one-health.md
+    - file: content/01-reef-mapping.ipynb
+    - file: content/02-one-health.ipynb
+    - file: book/research-resources.md
+    - file: book/references.md
+site:
+  template: book-theme
+  title: Coral Reef One Health
+  options:
+    style: book/style.css
+  actions:
+    - title: Open JupyterLite Lab
+      url: https://jltobias.github.io/JupyterLite-Coral-Reef-One-Health/lite/lab/index.html

@@ -1,0 +1,5 @@
+site,coral_cover_pct,turbidity_ntu,fish_species_observed,community_dependence_pct
+Lagoon A,62,1.5,42,75
+Lagoon B,28,6.0,19,85
+Lagoon C,45,3.0,31,40
+Lagoon D,72,0.8,48,60

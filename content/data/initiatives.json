@@ -1,0 +1,26 @@
+[
+  {
+    "initiative": "Allen Coral Atlas",
+    "approach": "Satellite habitat classification and reef monitoring",
+    "scope": "Global shallow tropical reefs",
+    "strength": "Consistent benthic and geomorphic mapping; bleaching and turbidity tools",
+    "caution": "Check product version, depth coverage, imagery dates, and validation",
+    "source_url": "https://allencoralatlas.org/"
+  },
+  {
+    "initiative": "KSLOF Global Reef Expedition",
+    "approach": "Satellite imagery combined with field observations",
+    "scope": "Expedition sites across Atlantic, Pacific, Indian Oceans, and Red Sea",
+    "strength": "Detailed habitat and bathymetry maps supported by field surveys",
+    "caution": "Site coverage is selective; data access may require a request",
+    "source_url": "https://www.livingoceansfoundation.org/mapping-the-worlds-coral-reefs/"
+  },
+  {
+    "initiative": "Millennium Coral Reef Mapping Project",
+    "approach": "Landsat 7 global reef inventory",
+    "scope": "Historical global shallow reef baseline",
+    "strength": "Foundational consistent inventory for later compilations",
+    "caution": "Historical imagery; compilation release dates differ from observation dates",
+    "source_url": "https://landsat.gsfc.nasa.gov/wp-content/uploads/2012/07/coral-l7.pdf"
+  }
+]
